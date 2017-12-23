@@ -1,0 +1,78 @@
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Carpool.Android.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Carpool.Android.pdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Carpool.Android.apk
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Carpool.Android-Signed.apk
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\FormsViewGroup.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.Design.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.v4.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Core.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\FormsViewGroup.pdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Core.xml
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\Carpool.Android.csprojResolveAssemblyReference.cache
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\Carpool.Android.csproj.CoreCompileInputs.cache
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\Carpool.Droid.MainPage.xaml.g.cs
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\Carpool.Droid.App.xaml.g.cs
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\Carpool.Android.dll
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\Carpool.Android.pdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\android\bin\Carpool.Android.apk
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\res\drawable\icon.png
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\res\layout\tabbar.xml
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\res\layout\toolbar.xml
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\res\values\styles.xml
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\R.cs.flag
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\uploadflags.txt
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\FormsViewGroup.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Core.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Carpool.Android.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\android\assets\Carpool.Android.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+D:\Lamster\Documents\Visual Studio 2017\Projects\Carpool\Carpool\Carpool.Android\bin\Debug\Carpool.Android.dll
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Carpool.Android.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
